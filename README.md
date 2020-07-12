@@ -6,6 +6,11 @@ The tools of Arknights. She can help you to analysis hr tags, materials drop pro
 本应用遵循 **Apache License**，也请您遵守此协议。  
 *本应用为免费应用，请勿用于出售、转卖等商业行为。*
 
+# 程序使用表
+ - 本体源程序由 **易语言** 编写
+ - 后端程序由 **PHP** 编写，使用了 **Flight** 框架和 **GD2** 图形库
+ 
+
 # 帮助
 https://www.wsm.ink/781
 
